@@ -1,4 +1,8 @@
 function greet(){
-    console.log("Git is Awesome")
+    console.log(user + " thinks GIT is Awesome!")
 };
-greet();
+// accept user input
+let user = prompt("Enter your name: ");
+
+// calling function
+greet(user);
