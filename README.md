@@ -66,8 +66,8 @@ Images in the "readme" file are for the purpose of this README doc.
 
 1.The function accepts a user input via a prompt
 
- !["Greet Me Prompt"](https://github.com/trudyjograce/projectsHyperionDev/blob/master/readmeImg/landing.JPG)
+ !["Greet Me Prompt"](https://github.com/trudyjograce/gitTask/blob/master/taskImg/greetMePrompt.JPG)
  
  2.Once the prompt has been answered, a message is printed in the console. This could be amended to alert etc
- !["Console Screen with Message Printed"](https://github.com/trudyjograce/projectsHyperionDev/blob/master/readmeImg/landing.JPG)
+ !["Console Screen with Message Printed"](https://github.com/trudyjograce/gitTask/blob/master/taskImg/functionPrintout.JPG)
  
