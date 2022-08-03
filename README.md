@@ -59,6 +59,17 @@ This project would be best used in addition to HTML files. The files contain the
  </ul>
 </details>
 
+```
+function greet(){
+    console.log(user + " thinks GIT is Awesome!")
+};
+// accept user input
+let user = prompt("Enter your name: ");
+
+// calling function
+greet(user);
+```
+
 **Images**
 Images in the "readme" file are for the purpose of this README doc.
 
